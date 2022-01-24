@@ -70,7 +70,7 @@ h4,
 h5,
 h6{
     font-family: 'Nunito Sans', sans-serif;
-    color: #222;
+    color: rgb(0, 162, 255);
 }
 img{
     max-width: 100%;
@@ -114,7 +114,7 @@ a:hover{
     position: fixed;
     right: 0;
     top: 0;
-    background-color: #fff;
+    background-color: rgb(0, 0, 0);
     z-index: 99999;	
 }
 .spinner {
@@ -440,6 +440,7 @@ animation-delay: -1.0s;
 }
 .about_details .ct_about{
     margin: 10px 0;
+    text-transform: lowercase;
 }
 .about_details .ct_about span {
     color: #222;
@@ -464,7 +465,7 @@ animation-delay: -1.0s;
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-color: #452598;
+    background-color: #087ce7;
     position: absolute;
     z-index: -1;
 }
