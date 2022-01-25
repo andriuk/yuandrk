@@ -76,12 +76,12 @@ img{
     max-width: 100%;
     height: auto;
 }
-a {
+/* a {
     text-decoration: none;
     display: inline-block;
     outline: none;
     transition: all 0.3s;
-}
+} */
 
 a:hover {
     text-decoration: none;
@@ -453,22 +453,22 @@ animation-delay: -1.0s;
     text-align: center;
 }
 .since_about h2 {
-    font-size: 100px;
+    font-size: 130px;
     font-weight: 800;
     position: relative;
-    color: #333;
+    color: rgb(0, 0, 0);
 }
-.since_about h2:after {
+/* .since_about h2:after {
     content: '';
     right: 40%;
-    top: 15%;
+    top: 30%;
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-color: #087ce7;
+    background-color: #00205ccc;
     position: absolute;
     z-index: -1;
-}
+} */
 .since_about h3 {
     font-size: 26px;
 }
