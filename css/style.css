@@ -588,7 +588,7 @@ animation-delay: -1.0s;
 }
 
 .progress-bar > span.percent_20{
-    width: 20%;
+    width: 80%;
 }
 
 .progress-bar > span.percent_40{

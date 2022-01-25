@@ -1,12 +1,12 @@
 # yuandrk
 
-### ⚒ It happened yesterday evening
+## ⚒ It happened yesterday evening
 
-## if you want visint page please go to   [Yurii's page](https://andriuk.github.io/yuandrk).
+### if you want visint page please go to   [Yurii's page](https://andriuk.github.io/yuandrk).
 
-To do: 
+#### To do:
 
 - [ ] add short discription
-- [ ] add my previous work 
-- [ ] add CV .pdf for download 
-- [ ] 
+- [ ] add my previous work
+- [x] add CV .pdf for download
+- [x] add link to telegram
