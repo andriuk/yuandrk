@@ -183,7 +183,7 @@ animation-delay: -1.0s;
     color: #fff;
     font-weight: 300;
     text-transform: capitalize;
-    font-size: 12px;
+    font-size: 21px;
     padding: 5px 17px;
     border-radius: 4px;
 }
@@ -440,7 +440,7 @@ animation-delay: -1.0s;
 }
 .about_details .ct_about{
     margin: 10px 0;
-    text-transform: lowercase;
+
 }
 .about_details .ct_about span {
     color: #222;
